@@ -1,0 +1,5 @@
+Make grapevine_middleman into a mail_server
+Middleman should initialise its own private key
+move decrypt/encrypt into a separate module
+improve route generation/ redo message format
+get list of available middlemen from some public server, and have middlemen push their presence to the server on init
